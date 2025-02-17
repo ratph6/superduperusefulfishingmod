@@ -1,6 +1,11 @@
 {
-  "name": "usefulfishingmod",
+  "name": "superduperusefulfishingmodule",
   "creator": "ratph6",
+  "description": "/editlava to edit the size and location",
   "version": "0.0.1",
-  "entry": "index.js"
+  "entry": "index.js",
+  "requires": [
+    "Krun",
+    "PogData"
+  ]
 }
